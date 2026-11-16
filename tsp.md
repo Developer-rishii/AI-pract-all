@@ -1,4 +1,11 @@
 ﻿```prolog
+/*
+  Traveling Salesman Problem in Prolog (SWI-Prolog).
+  Usage:
+  ?- shortest_path(Path).
+  ?- best_path(Path, Cost).
+*/
+
 
 /* This is the data set. */
 
